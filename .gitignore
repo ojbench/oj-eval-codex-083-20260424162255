@@ -1,0 +1,9 @@
+# Build artifacts to ignore for OJ
+cmakeFiles/
+cmakeCachee.txt
+code
+*.o
+
+# Editor/OS unikon
+.DS.Store
+*.swp
